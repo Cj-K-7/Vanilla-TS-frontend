@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("hello")})();
+(()=>{"use strict";console.log("hello");const e=document.createElement("a"),o=document.body;e.style.backgroundColor="black",e.innerText="hello",o.appendChild(e)})();
